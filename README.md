@@ -50,7 +50,6 @@
   🖼️ Custom image generation
   🎮 Gaming content integration
   📱 Direct TikTok publishing
-  📊 Performance analytics
   ⚙️ Full customization control
 ```
 
